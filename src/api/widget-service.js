@@ -1,7 +1,7 @@
-//https://run.mocky.io/v3/2c12583d-9d78-4d16-ad6b-8cfbb455c0ec
+//https://run.mocky.io/v3/e399a0d4-6b0b-4e0c-b71f-2ae7d8caecd7
 //https://localhost:3000/api/v1/widgets
 const getData = () =>
-    fetch("https://localhost:3000/api/v1/widgets", {
+    fetch("https://run.mocky.io/v3/e399a0d4-6b0b-4e0c-b71f-2ae7d8caecd7", {
         method: "GET",
     }).then((res) => res.json());
 

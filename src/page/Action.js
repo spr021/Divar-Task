@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react"
-import { WidgetService } from "../api/widget-service"
 import Widgets from "../Widgets"
+import { useLocation } from "react-router-dom"
 
-const Home = () => {
+const Action = () => {
+  const location = useLocation()
   const [components, setComponents] = useState()
   const [loading, setLoading] = useState(true)
 
@@ -17,11 +18,9 @@ const Home = () => {
   }
 
   useEffect(() => {
-    WidgetService().then((data) => {
-      setLoading(false)
-      WidgetCreator(data)
-    })
-  }, [])
+    setLoading(false)
+    WidgetCreator(location.state.payload.widget_list)
+  }, [location])
 
   return (
     <>
@@ -32,4 +31,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Action

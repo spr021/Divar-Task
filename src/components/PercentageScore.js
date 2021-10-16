@@ -1,6 +1,7 @@
 import React from "react"
+import PersianToEnglishNumber from "../utils/PersianToEnglishNumber"
 
-const PercentageScore = (props) => {
+const PercentageScore = ({ percentage_score, score_color }) => {
   return (
     <div className="w-24 h-3 rounded-full bg-gray-300 relative">
       <div
@@ -20,8 +21,8 @@ const PercentageScore = (props) => {
         style={{ right: "80%" }}
       />
       <div
-        className={`w-24 h-3 rounded-l-full bg-${props.score_color} absolute left-0`}
-        style={{ width: `${props.percentage_score}%` }}
+        className={`w-24 h-3 rounded-l-full bg-${score_color} absolute left-0`}
+        style={{ width: `${PersianToEnglishNumber(percentage_score)}%` }}
       />
     </div>
   )

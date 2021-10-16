@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a52d095a92fee8b5ef33bed642ef715",
+    "revision": "2568b4a03f115efc2c2b22d1502dd97e",
     "url": "/divar-widget-base/index.html"
   },
   {
-    "revision": "04540817216eb84511e2",
+    "revision": "4af86b72fd8428e182db",
     "url": "/divar-widget-base/static/css/2.8d447336.chunk.css"
   },
   {
-    "revision": "eebe65b42d576f828fde",
+    "revision": "9eda47ae13084e24b1af",
     "url": "/divar-widget-base/static/css/main.b82b24d2.chunk.css"
   },
   {
-    "revision": "04540817216eb84511e2",
-    "url": "/divar-widget-base/static/js/2.5a4d2783.chunk.js"
+    "revision": "4af86b72fd8428e182db",
+    "url": "/divar-widget-base/static/js/2.f82bb98d.chunk.js"
   },
   {
     "revision": "3c73c585782ac05880c0f89bcfdbba5a",
-    "url": "/divar-widget-base/static/js/2.5a4d2783.chunk.js.LICENSE.txt"
+    "url": "/divar-widget-base/static/js/2.f82bb98d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eebe65b42d576f828fde",
-    "url": "/divar-widget-base/static/js/main.cfcf6ec7.chunk.js"
+    "revision": "9eda47ae13084e24b1af",
+    "url": "/divar-widget-base/static/js/main.d80926f4.chunk.js"
   },
   {
     "revision": "8398c23ffa0075ae8369",

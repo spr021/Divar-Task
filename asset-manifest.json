@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/divar-widget-base/static/css/main.b82b24d2.chunk.css",
+    "main.js": "/divar-widget-base/static/js/main.cfcf6ec7.chunk.js",
+    "main.js.map": "/divar-widget-base/static/js/main.cfcf6ec7.chunk.js.map",
+    "runtime-main.js": "/divar-widget-base/static/js/runtime-main.9f1f1194.js",
+    "runtime-main.js.map": "/divar-widget-base/static/js/runtime-main.9f1f1194.js.map",
+    "static/css/2.8d447336.chunk.css": "/divar-widget-base/static/css/2.8d447336.chunk.css",
+    "static/js/2.5a4d2783.chunk.js": "/divar-widget-base/static/js/2.5a4d2783.chunk.js",
+    "static/js/2.5a4d2783.chunk.js.map": "/divar-widget-base/static/js/2.5a4d2783.chunk.js.map",
+    "index.html": "/divar-widget-base/index.html",
+    "precache-manifest.50d4c3a4e22269febe7165221ec5c98a.js": "/divar-widget-base/precache-manifest.50d4c3a4e22269febe7165221ec5c98a.js",
+    "service-worker.js": "/divar-widget-base/service-worker.js",
+    "static/css/2.8d447336.chunk.css.map": "/divar-widget-base/static/css/2.8d447336.chunk.css.map",
+    "static/css/main.b82b24d2.chunk.css.map": "/divar-widget-base/static/css/main.b82b24d2.chunk.css.map",
+    "static/js/2.5a4d2783.chunk.js.LICENSE.txt": "/divar-widget-base/static/js/2.5a4d2783.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/divar-widget-base/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/index.css": "/divar-widget-base/static/media/yekanweb_regular.3f229464.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f1f1194.js",
+    "static/css/2.8d447336.chunk.css",
+    "static/js/2.5a4d2783.chunk.js",
+    "static/css/main.b82b24d2.chunk.css",
+    "static/js/main.cfcf6ec7.chunk.js"
+  ]
+}

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react"
-import Widgets from "../Widgets"
+import Widgets from "../reducers/Widgets"
 import { useLocation } from "react-router-dom"
 
 const Action = () => {
@@ -19,7 +19,10 @@ const Action = () => {
 
   useEffect(() => {
     setLoading(false)
-    WidgetCreator(location.state.payload.widget_list)
+    if (location.state && location.state.payload) {
+      document.title = location.state.payload.title
+      WidgetCreator(location.state.payload.widget_list)
+    }
   }, [location])
 
   return (

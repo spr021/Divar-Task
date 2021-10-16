@@ -1,7 +1,7 @@
 import React from "react"
 import Divider from "./Divider"
 import PercentageScore from "./PercentageScore"
-import Action from "../Action"
+import Action from "../reducers/Action"
 import { useHistory } from "react-router-dom"
 
 const ScoreRow = ({

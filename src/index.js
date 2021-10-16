@@ -5,13 +5,10 @@ import App from "./App"
 import * as serviceWorker from "./serviceWorker"
 import "font-awesome/css/font-awesome.min.css"
 import "./styles/main.css"
-import { BrowserRouter as Router } from "react-router-dom"
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
-      <App />
-    </Router>
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 )

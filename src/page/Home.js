@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
 import { WidgetService } from "../api/widget-service"
-import Widgets from "../Widgets"
+import Widgets from "../reducers/Widgets"
 
 const Home = () => {
   const [components, setComponents] = useState()

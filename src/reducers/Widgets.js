@@ -1,12 +1,12 @@
 import React from "react"
-import DescriptionRow from "./components/DescriptionRow"
-import Divider from "./components/Divider"
-import FeatureRow from "./components/FeatureRow"
-import ImageCarouselRow from "./components/ImageCarouselRow"
-import LegendTitleRow from "./components/LegendTitleRow"
-import ScoreRow from "./components/ScoreRow"
-import TitleRow from "./components/TitleRow"
-import UnexpandableRow from "./components/UnexpandableRow"
+import DescriptionRow from "../components/DescriptionRow"
+import Divider from "../components/Divider"
+import FeatureRow from "../components/FeatureRow"
+import ImageCarouselRow from "../components/ImageCarouselRow"
+import LegendTitleRow from "../components/LegendTitleRow"
+import ScoreRow from "../components/ScoreRow"
+import TitleRow from "../components/TitleRow"
+import UnexpandableRow from "../components/UnexpandableRow"
 
 const Widgets = (props) => {
   switch (props.type) {

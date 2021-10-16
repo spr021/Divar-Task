@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2568b4a03f115efc2c2b22d1502dd97e",
+    "revision": "a9b6839e2011d153b37414536b708d58",
     "url": "/divar-widget-base/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/divar-widget-base/static/css/2.8d447336.chunk.css"
   },
   {
-    "revision": "9eda47ae13084e24b1af",
+    "revision": "9fd9d1a5b3b4064f3fba",
     "url": "/divar-widget-base/static/css/main.b82b24d2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/divar-widget-base/static/js/2.f82bb98d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9eda47ae13084e24b1af",
-    "url": "/divar-widget-base/static/js/main.d80926f4.chunk.js"
+    "revision": "9fd9d1a5b3b4064f3fba",
+    "url": "/divar-widget-base/static/js/main.d419fb82.chunk.js"
   },
   {
     "revision": "8398c23ffa0075ae8369",

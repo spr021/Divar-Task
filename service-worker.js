@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/divar-widget-base/precache-manifest.212abc1d84bf58ccd6c6e9be7e8a83d3.js"
+  "/divar-widget-base/precache-manifest.a479d1bf24e2cfc4af165710c9b9f963.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/divar-widget-base/static/css/main.b82b24d2.chunk.css",
-    "main.js": "/divar-widget-base/static/js/main.d80926f4.chunk.js",
-    "main.js.map": "/divar-widget-base/static/js/main.d80926f4.chunk.js.map",
+    "main.js": "/divar-widget-base/static/js/main.d419fb82.chunk.js",
+    "main.js.map": "/divar-widget-base/static/js/main.d419fb82.chunk.js.map",
     "runtime-main.js": "/divar-widget-base/static/js/runtime-main.9f1f1194.js",
     "runtime-main.js.map": "/divar-widget-base/static/js/runtime-main.9f1f1194.js.map",
     "static/css/2.8d447336.chunk.css": "/divar-widget-base/static/css/2.8d447336.chunk.css",
     "static/js/2.f82bb98d.chunk.js": "/divar-widget-base/static/js/2.f82bb98d.chunk.js",
     "static/js/2.f82bb98d.chunk.js.map": "/divar-widget-base/static/js/2.f82bb98d.chunk.js.map",
     "index.html": "/divar-widget-base/index.html",
-    "precache-manifest.212abc1d84bf58ccd6c6e9be7e8a83d3.js": "/divar-widget-base/precache-manifest.212abc1d84bf58ccd6c6e9be7e8a83d3.js",
+    "precache-manifest.a479d1bf24e2cfc4af165710c9b9f963.js": "/divar-widget-base/precache-manifest.a479d1bf24e2cfc4af165710c9b9f963.js",
     "service-worker.js": "/divar-widget-base/service-worker.js",
     "static/css/2.8d447336.chunk.css.map": "/divar-widget-base/static/css/2.8d447336.chunk.css.map",
     "static/css/main.b82b24d2.chunk.css.map": "/divar-widget-base/static/css/main.b82b24d2.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.8d447336.chunk.css",
     "static/js/2.f82bb98d.chunk.js",
     "static/css/main.b82b24d2.chunk.css",
-    "static/js/main.d80926f4.chunk.js"
+    "static/js/main.d419fb82.chunk.js"
   ]
 }

@@ -1,8 +1,6 @@
 # Widgets base practice
 Simple widgets base web app.
 
-![Home Page](./preview.png)
-
 ## Web development 
 
 Divar-widget-base is an app that attempts to use the latest cutting edge libraries and tools. As a summary:
@@ -17,4 +15,4 @@ Divar-widget-base is an app that attempts to use the latest cutting edge librari
 
  ## Web App
 
- [Space X](https://spr021.github.io/Space-X/)
+ [Divar-widget-base](https://spr021.github.io/divar-widget-base/)
